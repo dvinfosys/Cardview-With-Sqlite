@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cardview With Sqlite</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="product_name">Product name</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_quantity">Enter quantity</string>
+</resources>
